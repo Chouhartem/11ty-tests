@@ -5,7 +5,7 @@ layout: layouts/base.njk
 
 # Home
 
-This is a test page for mermaid.
+This is a test page for eleventy + mermaid.
 
 Here follows a mermaid diagram:
 
