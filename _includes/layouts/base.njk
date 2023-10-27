@@ -15,5 +15,12 @@
 
 <body>
 {{ content | safe }}
+
+<script type="module">
+  import mermaid from '/node_modules/mermaid/dist/mermaid.esm.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+  });
+</script>
 </body>
 </html>
