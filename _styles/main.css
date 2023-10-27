@@ -1,4 +1,10 @@
 body {
-  max-width: 800px;
+  max-width: 820px;
   margin: auto;
+}
+
+main {
+  padding: 10px;
+  background-color: #eeeeee;
+  font-family: Sans;
 }
